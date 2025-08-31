@@ -23,4 +23,4 @@ CSS3 – Styling with gradient background and card UI
 
 JavaScript (Vanilla) – Real-time logic and validation
 
-🌐 Live Here : 
+🌐 Live Here : https://mani-mc.github.io/simple-character-counter/
